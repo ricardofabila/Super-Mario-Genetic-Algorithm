@@ -15,3 +15,5 @@ To try this script you will need:
 
 You need to open the rom file, then go to scripts and load the lua file. The game state must be on the same directory as the Lua file. I recommend creating a folder inside the BizHawk folder with the rom, the state file, and the script.
 
+You can find a video explaining the process here: https://youtu.be/YUk2XoyMcP0
+
